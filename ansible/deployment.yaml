@@ -42,7 +42,7 @@ spec:
                 values: 
                 - kslave1
       containers:
-        - image: appimage:latest
+        - image: aditya2103/appimage:latest
           name: retail-container
           resources:
             limits:
